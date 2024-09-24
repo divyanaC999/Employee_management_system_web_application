@@ -1,0 +1,19 @@
+/* SalarySlip.css */
+.salary-slip-container {
+    margin: 20px;
+  }
+  
+  .salary-slip-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .salary-slip {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Add additional styling as needed */
+  
